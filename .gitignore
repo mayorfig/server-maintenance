@@ -1,0 +1,6 @@
+logs/
+backups/
+remote_backup/
+*.log
+*.tar.gz
+

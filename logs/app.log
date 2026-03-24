@@ -1,8 +1,0 @@
-192.168.1.1 - - [23/Mar/2026] "GET /home" 200
-192.168.1.2 - - [23/Mar/2026] "POST /login" 500 ERROR
-192.168.1.1 - - [23/Mar/2026] "GET /dashboard" 200
-192.168.1.3 - - [23/Mar/2026] "GET /api" 404 ERROR
-192.168.1.2 - - [23/Mar/2026] "GET /profile" 500 ERROR
-192.168.1.4 - - [23/Mar/2026] "GET /home" 200
-192.168.1.3 - - [23/Mar/2026] "POST /login" 500 ERROR
-192.168.1.1 - - [23/Mar/2026] "GET /settings" 200
